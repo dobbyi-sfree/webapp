@@ -1,0 +1,7 @@
+#Site Settings
+locate          : "ko-KR"
+title           : "PortFolio for sjLim"
+title_separator : "-"
+name            : "sjLim"
+description     : "Portfolio"
+url             : "https://dobbyi-sfree.github.io/webapp/"
